@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;  
+   
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: lightcoral;
+}                                                                                       
+ button{
+  display: flex;
+  justify-content: center;
+  margin: 50px 390px;
+  padding: 40px;
+  background-color:purple;
+ }
+ h1{
+  display: flex;
+  justify-content: center;
+ margin: 3% 10%;
+ padding: 40px;
+ 
+ }
+ input{
+  display: flex;
+  justify-content: center;
+  margin: 40px 390px;
+  padding: 40px;
+  background-color: lightgreen;
+ }
+ 
+
